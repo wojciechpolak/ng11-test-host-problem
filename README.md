@@ -3,6 +3,8 @@
 Testing a component inside a test host, according to:
 https://angular.io/guide/testing-components-scenarios#component-inside-a-test-host
 
+Reproduction repo for [Issue #39838](https://github.com/angular/angular/issues/39838)
+
 `ngc` throws error (but only when Ivy is enabled):
 
 ```
